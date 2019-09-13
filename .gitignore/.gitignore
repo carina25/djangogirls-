@@ -1,7 +1,18 @@
-*.pyc
-*~
-__pycache__
-myvenv
-db.sqlite3
-/static
-9.DS_Store
+Mi aplicación Django Girls, primer commit
+ 15 files changed, 267 insertions(+)
+ create mode 100644 djangogirls/.gitignore
+ create mode 100644 djangogirls/blog/__init__.py
+ create mode 100644 djangogirls/blog/admin.py
+ create mode 100644 djangogirls/blog/apps.py
+ create mode 100644 djangogirls/blog/migrations/0001_initial.py
+ create mode 100644 djangogirls/blog/migrations/__init__.py
+ create mode 100644 djangogirls/blog/models.py
+ create mode 100644 djangogirls/blog/tests.py
+ create mode 100644 djangogirls/blog/views.py
+ create mode 100755 djangogirls/manage.py
+ create mode 100644 djangogirls/mysite/__init__.py
+ create mode 100644 djangogirls/mysite/settings.py
+ create mode 100644 djangogirls/mysite/urls.py
+ create mode 100644 djangogirls/mysite/wsgi.py
+ create mode 100644 djangogirls/requirements.txt
+
